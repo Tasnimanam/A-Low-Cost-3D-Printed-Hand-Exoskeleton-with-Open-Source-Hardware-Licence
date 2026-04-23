@@ -1,0 +1,8 @@
+Open Source Hardware License Notice
+
+All hardware design files in this repository, including CAD models, STL files, circuit diagrams, and related hardware documentation, are additionally released under the CERN Open Hardware License Version 2 - Strongly Reciprocal (CERN-OHL-S v2).
+
+You may use, study, modify, manufacture, and distribute this hardware design under the terms of CERN-OHL-S v2.
+
+Full License Text:
+https://ohwr.org/cern_ohl_s_v2.txt
