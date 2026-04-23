@@ -1,0 +1,2 @@
+# A-Low-Cost-3D-Printed-Hand-Exoskeleton-with-Open-Source-Hardware-Licence
+Stroke survivors often lose voluntary hand movement, limiting daily tasks. We developed a low-cost, 3D-printed wearable hand exoskeleton using a rotary encoder instead of biosensors. It provides assistive gripping and therapy modes, improving finger ROM and grip strength. Affordable, portable, and suitable for rehabilitation in Bangladesh.
